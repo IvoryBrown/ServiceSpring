@@ -1,10 +1,12 @@
 package com.sevice.login.entity;
 
+
+
 public class User {
 	private String username;
 	private String password;
 	
-	
+
 	public User() {
 		
 	}
